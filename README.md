@@ -1,1 +1,1 @@
-# WordDict
+# WordDict IOSApp
